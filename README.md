@@ -20,6 +20,24 @@ To set up the DNA Profiling Service on your system, follow these steps:
 - Flask
 - An SQL database (e.g., SQLite, MySQL)
 
+### Installation
+1. Clone the repository:
+   ```
+   git clone https://github.com/Manav-byte/STR-Based-DNA-Profile-Matcher.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd DNA_profiling_service
+   ```
+3. Install the required Python packages:
+   ```
+4. Initialize the database:
+   ```
+   python init_db.py
+   ```
+5. Start the Flask application:
+   ```
+   flask run
    ```
 
 ## Usage
