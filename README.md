@@ -28,6 +28,3 @@ After starting the application, navigate to `http://localhost:5000` in your web 
 - Add new DNA profiles
 - Search for existing profiles using STR data
 - Compare profiles for matches
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
