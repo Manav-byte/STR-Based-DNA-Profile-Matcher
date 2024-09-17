@@ -30,7 +30,7 @@ To set up the DNA Profiling Service on your system, follow these steps:
    cd DNA_profiling_service
    ```
 3. Install the required Python packages:
-   ```
+
 4. Initialize the database:
    ```
    python init_db.py
