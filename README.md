@@ -1,4 +1,3 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H5VAL6E)
 
 # DNA Profiling Service
 
@@ -21,26 +20,6 @@ To set up the DNA Profiling Service on your system, follow these steps:
 - Flask
 - An SQL database (e.g., SQLite, MySQL)
 
-### Installation
-1. Clone the repository:
-   ```
-   git clone https://github.com/Binbasri-in/DNA_profiling_service.git
-   ```
-2. Navigate to the project directory:
-   ```
-   cd DNA_profiling_service
-   ```
-3. Install the required Python packages:
-   ```
-   pip install -r requirements.txt
-   ```
-4. Initialize the database:
-   ```
-   python init_db.py
-   ```
-5. Start the Flask application:
-   ```
-   flask run
    ```
 
 ## Usage
@@ -49,9 +28,6 @@ After starting the application, navigate to `http://localhost:5000` in your web 
 - Add new DNA profiles
 - Search for existing profiles using STR data
 - Compare profiles for matches
-
-## Contributing
-Contributions to the DNA Profiling Service are welcome. If you would like to contribute, please fork the repository and submit a pull request with your proposed changes.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
